@@ -1,0 +1,1 @@
+s3_bucket_name ="akgun1-auto-tfvar-bucket"
